@@ -3,4 +3,4 @@
 
 ---
 
-[View as website](https://blitz-community.github.io/syntaxbomb-backup/)
+[View as website](https://blitz-community.github.io/SyntaxBomb-Backup)
