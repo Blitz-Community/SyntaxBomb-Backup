@@ -1,4 +1,4 @@
-![logo](/assets/logoSyntaxBomb.png)
+![logo](/assets/img/logoSyntaxBomb.png)
 
 ### A backup of the SyntaxBomb forum
 
