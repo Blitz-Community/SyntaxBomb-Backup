@@ -1,8 +1,7 @@
 ![logo](/assets/logoSyntaxBomb.png)
 
-## SyntaxBomb Backup
-### A backup of the SyntaxBomb forum
-
 ---
+
+### A backup of the SyntaxBomb forum
 
 [View as website](https://blitz-community.github.io/SyntaxBomb-Backup)
