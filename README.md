@@ -1,3 +1,5 @@
+![logo](/assets/logoSyntaxBomb.png)
+
 ## SyntaxBomb Backup
 ### A backup of the SyntaxBomb forum
 
