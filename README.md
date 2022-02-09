@@ -2,4 +2,4 @@
 
 ### A backup of the SyntaxBomb forum
 
-[View as website](https://blitz-community.github.io/SyntaxBomb-Backup)
+[View as website](https://blitz-community.github.io/syntaxbomb-backup)
